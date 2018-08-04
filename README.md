@@ -35,3 +35,5 @@ Timer will start after the first card opened.
 One pair of cards opened = 1 move.
 
 ### Good luck and have fun!!
+
+(Thanks for the help from Matthew Cranford tutorial - https://matthewcranford.com/memory-game-walkthrough-part-1-setup/)
