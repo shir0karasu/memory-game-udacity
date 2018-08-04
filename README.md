@@ -7,14 +7,28 @@
 
 ## Instructions
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+Simple memory game with 8 pairs of cards. 
 
-To get started, open `js/app.js` and start building out the app's functionality
+## How to play
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+- Click on the card that you want to open:
+  + If the cards that you opened don't match, they will be closed after 1 second.
+  + If the cards are matched, they will remain open and keep going :).
+  
+## Stars system
 
-## Contributing
+- One star will be removed after you committed 12 moves.
+- The second star will be removed after you committed 16 moves.
+- The last star will be removed after 20 moves.
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+(I know it's hard but try your best!)
 
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+## Timer 
+
+Timer will start after the first card opened.
+
+## Move counter
+
+One pair of cards opened = 1 move.
+
+### Good luck and have fun!!
