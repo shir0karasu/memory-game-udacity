@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-* [Instructions]
-* [How to play]
-* [Stars system]
-* [Timer]
-* [Move counter]
+* Instructions
+* How to play
+* Stars system
+* Timer
+* Move counter
 
 ## Instructions
 
