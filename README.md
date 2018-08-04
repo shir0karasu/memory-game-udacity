@@ -2,8 +2,11 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+* [Instructions]
+* [How to play]
+* [Stars system]
+* [Timer]
+* [Move counter]
 
 ## Instructions
 
